@@ -1,2 +1,2 @@
-# Proyecto
-Proyecto final de la Cursada de laboratorio I de la carrera de tecnicatura superior de la utn
+Hola mi nombre es Joaquin Labrador, tengo 22 años, oriundo de la cuidad Mar del Plata, Argentina, actualmente me encuento cursando el primer año de la Tecnicatura superior en programacion en la Universidad Tecnologica de Mar del Plata.
+Hello, my name is Joaquin Labrador, I am 22 years old, from the city of Mar del Plata, Argentina, I am currently studying the first year of the Higher Technique in programming at the Technological University of Mar del Plata.
